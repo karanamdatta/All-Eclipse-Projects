@@ -1,0 +1,4 @@
+java.lang.NullPointerException
+	at com.stepDefination.naukariloin.user_navigates_to_Login_Page(naukariloin.java:22)
+	at ?.When user navigates to Login Page(src/test/resources/FeaturesFiles/NaukariLoin.feature:6)
+
